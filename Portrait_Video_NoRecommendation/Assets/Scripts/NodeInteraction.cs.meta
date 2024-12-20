@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 404bf41ee7aa9cd4b86dafd1772754c8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - defaultNodeMaterial: {fileID: 2100000, guid: d9b4e04c50c94574483a668bbf3d38e0, type: 2}
+  - defaultLinkMaterial: {fileID: 2100000, guid: e6ea2e30d79dbe44a99cc8d8c2281a25, type: 2}
+  - highlightNodeMaterial: {fileID: 2100000, guid: 9c9ff3a6af1ec864c9d1a38a54022fb8, type: 2}
+  - highlightLinkMaterial: {fileID: 2100000, guid: e6ea2e30d79dbe44a99cc8d8c2281a25, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
